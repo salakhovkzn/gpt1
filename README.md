@@ -11,7 +11,8 @@
 - Адаптивная мобильная кнопка записи.
 
 ## Публикация
-Сайт публикуется GitHub Actions в GitHub Pages при push в ветку `main`.
+Автоматическая публикация настроена через GitHub Actions при push в ветку `main`. Для первого запуска требуется один раз включить Pages в настройках репозитория: Settings → Pages → Build and deployment → Source → GitHub Actions. Затем перезапустите workflow во вкладке Actions.
+Публичный адрес после успешного деплоя: https://salakhovkzn.github.io/gpt1/.
 URL репозитория: https://github.com/salakhovkzn/gpt1
 
 ## Проверить перед запуском для посетителей
